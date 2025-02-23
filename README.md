@@ -1,2 +1,2 @@
-# swpredirect.github.io
+# SWP Redirect
 The redirecting site to the original SWP site.
